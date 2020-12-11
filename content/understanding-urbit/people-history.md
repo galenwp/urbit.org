@@ -11,25 +11,25 @@ image = "https://media.urbit.org/site/understanding-urbit/project-history/projec
 
 So who builds this thing? Where does it come from? What’s the history?
 
-Today, Urbit is built and maintained by two companies, a community of contributors and core developers, infrastructure (star) operators, and governance (galaxy) node owners.
+Today, Urbit is built and maintained by a few companies, a community of contributors and core developers, infrastructure (star) operators, and governance (galaxy) node owners.
 
 Let’s talk first about these individual groups within the Urbit community, then about the history of the project and how it came to be.
 
 <img class="ba" src="https://media.urbit.org/site/understanding-urbit/project-history/project-status-landscape-earth@2x.png">
 
-There are currently two independent companies that work on building Urbit full-time: [Tlon](https://tlon.io/) and [urbit.live](https://urbit.live/).
+Around 2013, [Tlon](https://tlon.io) was started to take Urbit from a rough prototype to a real, working system. Tlon was granted about half of the Urbit address space and has used that to fund its operations so far by selling some to the public, some to investors and giving some to contributors and developers.
 
-Tlon has been around since 2013 or so, and is primarily focussed on the development of Urbit OS and its user experience. Urbit.live was started in 2018 to make the onramp into Urbit as easy as possible. Both companies contribute regularly to the code base.
+From 2013 to 2018 Tlon was a tiny team of ~5 people, but it has since grown to about 20 full-time people. Tlon’s focus is to make Urbit both a great system and a great user-experience. As of late 2020, you can sign up for a hosted Urbit from Tlon at [their website](https://tlon.io).
 
-Tlon was originally granted about half of the Urbit ID address space, and has used that to fund its operations so far. Over time, Tlon plans to offer hosting and services to make using Urbit as easy as possible.
+When Tlon’s original address space grant was set up a large chunk of it was earmarked for ‘urbit.org’, a future foundation to support core development. We took our first steps toward making urbit.org a real institution in 2020, which you can read about [here](https://urbit.org/blog/first-steps-towards-urbit-org/). Doing this has ramped up our community grants program.
 
-Tlon is also working to set up an urbit.org foundation. This is still in process, and is expected to happen in 2020.
+In 2019, other Urbit companies started to crop up. [urbit.live](https://urbit.live) was the first. They sell Urbit IDs and host a network explorer.
 
-Urbit.live started selling Urbit IDs very early once that became possible, and also plans to offer services within the Urbit ecosystem.
+Since then, there are a handful of others: [urth.systems](https://urth.systems) runs private communities on urbit, [planet.market](https://planet.market) sells address space, [urbit.me](https://urbit.me) sells unique sigils, [geturbitid.com](https://geturbitid.com) sells urbit hosting. The ecosystem is healthy and growing steadily.
 
-The community of contributors and core developers has been steadily contributing to the code base since before Tlon existed, and they’re still going strong. They can primarily be found on Urbit itself, in the Urbit Community (`~bitbet-bolbel/urbit-community)`, the [urbit-dev mailing list](https://groups.google.com/a/urbit.org/forum/#!forum/dev) and on [GitHub](https://github.com/urbit).
+The community of contributors and core developers has been continuously contributing to the code base since before Tlon existed, and they’re still going strong. They can primarily be found on Urbit itself, in the Urbit Community (`~bitbet-bolbel/urbit-community`), the [urbit-dev mailing list](https://groups.google.com/a/urbit.org/forum/#!forum/dev) and on [GitHub](https://github.com/urbit).
 
-When the Urbit ID address space went on-chain in early 2019 there were about 2,000 star holders and 70 galaxy holders – that number has since grown steadily. For the most part, the best way to connect with them is through Urbit itself.
+When the Urbit ID address space went on-chain in early 2019 there were about 2,000 star holders and 70 galaxy holders. That number has since grown significantly, but we can’t be exactly sure how many *people* are holding address space since everything is on-chain now.
 
 <img class="ba"
 src="https://media.urbit.org/site/understanding-urbit/uu-people-history-2a.jpg"/>
@@ -41,8 +41,6 @@ src="https://media.urbit.org/site/understanding-urbit/uu-people-history-2c.jpg"
 Given how new and unusual Urbit is, it attracts a wide variety of interesting people — both technical and non-technical. The community is generally happy to talk to people about what Urbit is, what we’re up to, and where we’re going. The best way to get involved is to simply join the Urbit Community at `~bitbet-bolbel/urbit-community` — which our [setup instructions](/using/operations/using-your-ship/) can help you do.
 
 For those interested in contributing there are some simple instructions on [GitHub](https://github.com/urbit/urbit/blob/master/CONTRIBUTING.md#contributing-to-urbit), but we also run a [grants program](https://grants.urbit.org/) where we reward contributors with Urbit ID address space. Grants aren’t solely for pre-determined projects, either. If you have something you’d like to propose, we’d love to hear from you.
-
-We also run a bi-monthly course called ‘Hoon School’ to teach people about the system. Hoon School is designed for anyone with the most basic technical skills — you don’t have to be an expert programmer. If you’re interested, you should [apply](/community/hoonschool). We accept everyone we can and only close the class when it gets too big.
 
 <img class="full w-100 mv4" src="https://media.urbit.org/site/understanding-urbit/project-history/history-4.svg"/>
 
@@ -66,7 +64,7 @@ Arvo, Urbit’s OS kernel, boots and the first live Urbit network is started wit
 
 **2014**
 
-Tlon is founded to help support Urbit development (and is < 8 people for the next four years).
+Tlon is fully up and running to help support Urbit development (and is < 8 people for the next four years).
 
 **2015**
 
@@ -80,16 +78,19 @@ The first sale of Urbit address space sells out in four hours.
 
 Our test network runs for ten months without a reboot.
 
-Our private sale, shared only with our mailing list, sells out in six hours — limit two per person.
+Our private sale, shared only with our mailing list, sells 1024 stars in six hours — limit two per person.
 
 **2018**
 
 Tlon sells about 8% of its stake in the network to accelerate Urbit development.
-urbit.live gets going and starts selling Urbit IDs to the public.
 
 **2019**
 
-Tlon spends the year stabilizing Arvo and building OS 1.
+Tlon spends the year stabilizing Arvo and building OS 1. urbit.live gets going and starts selling Urbit IDs to the public.
+
+**2020**
+
+[OS 1 is released](https://www.youtube.com/watch?v=71ViyftPkGk), Tlon [announces hosting](https://www.youtube.com/watch?v=w3qKe_WZr50), urbit.org accelerates community development and a few other companies get off the ground.
 
 <img class="ba" src="https://media.urbit.org/site/understanding-urbit/uu-history-4.jpg"/>
 
@@ -100,5 +101,3 @@ Keep in touch while we make build this vision into reality by [joining our maili
 If you’re somewhat technical and you’d like to help and contribute, [install Urbit](/using/install) and consider [applying for a grant](https://grants.urbit.org/s).
 
 If you’re interested in homesteading a community when OS 1 comes out, [apply here](/community/community-grants).
-
-Or if you’re curious to try Hoon School, [let us know](/community/hoonschool).
